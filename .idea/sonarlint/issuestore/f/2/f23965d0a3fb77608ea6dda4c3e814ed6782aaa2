@@ -1,0 +1,89 @@
+
+b
+java:S1192"IDefine a constant instead of duplicating this literal "outType" 12 times.(è®êÀýÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "tReceive" 10 times.(É¤©Ì
+_
+java:S1192"KDefine a constant instead of duplicating this literal "commodity" 12 times.(•‡Ÿë
+c
+java:S1192"JDefine a constant instead of duplicating this literal "wvolume2" 10 times.(Š…žÍûÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "wvolume1" 10 times.(Õƒ®‚
+d
+java:S1192"KDefine a constant instead of duplicating this literal "variation" 10 times.(¯Ž„€úÿÿÿÿ
+_
+java:S1192"LDefine a constant instead of duplicating this literal "otherCrcNo" 12 times.(‚íªk
+]
+java:S1192"IDefine a constant instead of duplicating this literal "volume2" 10 times.(±ÚÄ‰
+d
+java:S1192"KDefine a constant instead of duplicating this literal "waterdip1" 10 times.(¶°ûýÿÿÿÿ
+b
+java:S1192"IDefine a constant instead of duplicating this literal "volume1" 10 times.(øËÂ„øÿÿÿÿ
+_
+java:S1192"KDefine a constant instead of duplicating this literal "waterdip2" 10 times.(Òå¦ª
+[
+java:S1192"GDefine a constant instead of duplicating this literal "temp1" 10 times.(°Å€
+[
+java:S1192"GDefine a constant instead of duplicating this literal "temp2" 10 times.(üÆûµ
+a
+java:S1192"HDefine a constant instead of duplicating this literal "itemNo" 12 times.(žð‡Ïùÿÿÿÿ
+\
+java:S1192"IDefine a constant instead of duplicating this literal "weight1" 10 times.(Ñ»÷
+\
+java:S1192"IDefine a constant instead of duplicating this literal "remarks" 12 times.(„·ä
+d
+java:S1192"KDefine a constant instead of duplicating this literal "vesselQty" 10 times.(ªˆ…Úøÿÿÿÿ
+Z
+java:S1192"GDefine a constant instead of duplicating this literal "date1" 10 times.(®ÐK
+[
+java:S1192"HDefine a constant instead of duplicating this literal "gaugeS" 12 times.(Òµ«5
+\
+java:S1192"HDefine a constant instead of duplicating this literal "gauge2" 10 times.(ÕÝï–
+\
+java:S1192"IDefine a constant instead of duplicating this literal "weight2" 10 times.(äÙóW
+^
+java:S1192"JDefine a constant instead of duplicating this literal "remarks1" 12 times.(”è¢Ù
+a
+java:S1192"HDefine a constant instead of duplicating this literal "vessel" 12 times.(óô¨üÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "dens15c1" 12 times.(ˆÚöÂ
+_
+java:S1192"KDefine a constant instead of duplicating this literal "cCustomer" 12 times.(»ˆÌ…
+^
+java:S1192"JDefine a constant instead of duplicating this literal "densObs1" 12 times.(¤ßÍ
+a
+java:S1192"HDefine a constant instead of duplicating this literal "gauge1" 10 times.(šµµ¡ùÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "densObs2" 12 times.(÷Œˆø
+]
+java:S1192"IDefine a constant instead of duplicating this literal "receive" 10 times.(³ŒÔò
+^
+java:S1192"JDefine a constant instead of duplicating this literal "dens15c2" 12 times.(”Ãã…
+[
+java:S1192"GDefine a constant instead of duplicating this literal "crcNo" 12 times.(úÎÿà
+a
+java:S1192"HDefine a constant instead of duplicating this literal "actual" 10 times.(¡à¯Ûúÿÿÿÿ
+b
+java:S1192"IDefine a constant instead of duplicating this literal "vol15c2" 10 times.(õµÁúÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "vPercent" 10 times.(¾íâ¸
+a
+java:S1192"HDefine a constant instead of duplicating this literal "billid" 10 times.(²Ôòöúÿÿÿÿ
+`
+java:S1192"GDefine a constant instead of duplicating this literal "date2" 10 times.(Ó€Ì“ùÿÿÿÿ
+]
+java:S1192"IDefine a constant instead of duplicating this literal "vol15c1" 10 times.(ïß¢é
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºþÿÿÿÿ
+X	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+
+Q
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Á½¼s
+W
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ
+t
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ì
+l
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù
