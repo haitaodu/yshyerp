@@ -10,6 +10,16 @@ spring:
     password: 1qaz@wsx
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
 
+  data:
+    mongodb:
+      database: yshyerp
+      host: 192.168.1.221
+      password: 1qaz@wsx
+      username: root
+      port: 27017
+
+  mongodb:
+    crcCollection: crcCollection
 
 
 server:
